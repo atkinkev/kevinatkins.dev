@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "kevinatkins.dev": {
+      "appLocation": "public",
+      "outputLocation": ".",
+      "appName": "KevinAtkinsDev",
+      "resourceGroup": "kevin-personal"
+    }
+  }
+}
