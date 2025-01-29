@@ -27,8 +27,8 @@ fingerprintAlgorithm = "sha256"
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
@@ -57,7 +57,7 @@ fingerprintAlgorithm = "sha256"
 
 [list]
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showTableOfContents = false
   showTaxonomies = false
   groupByYear = true

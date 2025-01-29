@@ -15,8 +15,8 @@ title = "Kevin Atkins"
 [params.author]
   name = "Kevin Atkins"
   image = "img/portrait.png"
-  headline = "Hello, I'm Kevin Atkins, a full stack software developer at <a href=\"https://www.civicsystems.com\">Civic Systems</a>. We build software to empower local governments and utilities."
-  # bio = "A little bit about you"
+  headline = "Software Developer"
+  bio = "A little bit about you"
   links = [
   { github = "https://github.com/atkinkev" },
   { linkedin = "https://linkedin.com/in/kevin-atkins-522523166" }
