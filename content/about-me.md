@@ -6,8 +6,8 @@ title = 'About'
 
 ## Hi, I'm Kevin!
 
-I'm a full stack software developer with extensive experience designing accounting solutions for local governments and utilities. I have over six years of professional development experience and a lifelong love for tinkering and learning about tech.
+I'm a full stack software developer with extensive experience designing accounting solutions for local governments and utilities. I have over six years of professional development experience and a lifelong love for tinkering and learning about tech. Passionate about writing testable, quality code and building scalable web apps. 
 
 ## Hobbies and Interests
 
-Outside of my work life, I enjoy exploring Michigan's Upper Peninsula and cooking delicious healthy food for my family. I'm an avid mountain biker and skier and love to experience what every season has to offer.
+Outside of my work life, I enjoy exploring Michigan's Upper Peninsula and cooking delicious healthy food for my family. I'm an avid mountain biker and skier and love to experience what every season has to offer. I also love a great cup of coffee:coffee:.
