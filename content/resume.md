@@ -6,6 +6,6 @@ title = 'Resume'
 
 Download my resume in PDF format.
 
-{{< button href="/resume.pdf" target="_blank" >}}
+{{< button href="/files/resume.pdf" target="_blank" >}}
 Download (PDF)
 {{< /button >}}
